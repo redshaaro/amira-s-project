@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+.nav{
+    display: flex;align-items: center;
+    justify-content: space-between;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #7A2682;
+    padding: 15px 20px;
+    color:white;
+}
+.left span{
+    margin-right: 1rem;
+}
+.right i{
+    margin-right: 1rem;
+}
+.form{
+    margin-right: auto;
+    margin-left: auto;
+    background-color: grey;
+    margin-top: 5rem;
+    width: 50%;
+    height: 20%;
+     
+}
+.formflexer{
+    /* display: flex;
+    flex-direction: column; */
+    width: 20%;
+    margin-right: auto;
+    margin-left: auto;
+}
